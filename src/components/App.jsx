@@ -16,7 +16,6 @@ export const App = () => {
         {users.map(user => {
           return (
             <Profile
-              key={user.id}
               username={user.username}
               tag={user.tag}
               location={user.location}
