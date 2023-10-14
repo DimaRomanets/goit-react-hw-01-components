@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import defaultImage from './defaultImage.png';
+
 import css from './SocialProfile.module.css';
 
 export default function Profile({
